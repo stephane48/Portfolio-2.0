@@ -1,0 +1,165 @@
+{
+  "main": {
+    "name":"Stephane Kamdem Kamguia",
+    "occupation":"Computer Programming & Analysis Student",
+    "description":"Advanced Diploma in Computer Programming & Analysis. Actually seeking for a Software full stack/Database developer internship position",
+    "image":"profilepic.jpg",
+    "bio":"Advanced Diploma in Computer Programming & Analysis. I am a Designer Database developer-oriented. I master ORACLE, MySQL, POSTGRESQL, MongoDB, # / C / C++, Python and good knowledge of Linux systems, Windows and cisco configurations switch and router. Specialties:Oracle developer, MySQL, PostgreSQL, MongoDB, C++/C/C#, Python, JavaScript, HTML5, CSS3, Node.js.",
+    "contactmessage":"Get in touch with me to receive further details, get coached or anything else.",
+    "email": "sessegnon.stephane48@gmail.com",
+    "phone": "+1(437)-237-2840",
+    "address":{
+      "street":"1 fountainhead Rd",
+      "city":"Toronto",
+      "state":"Ontario",
+      "zip": "M3J 1K6"
+    },
+    "website": "https://organic-store-website.herokuapp.com/#juice",
+    "resumedownload":"https://stephane48.github.io/resume/My%20Resume%20Co-op.html",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/stephane.sessegnon.129/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/stephane-kamdem-kamguia-26053519b/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/stephane____2ks/?hl=en",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/stephane48",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am a Computer Programming & Analysis Student oriented towards client / server applications and database management.",
+    "education":[
+      {
+        "school":"Seneca College, Toronto, ON",
+        "degree":"Computer Programming & Analysis - Advanced Diploma Degree",
+        "graduated":"September 2019 - April 2022",
+        "description":"President Honor's List - GPA 4.0/4.0. Courses include: Object-Oriented Programming (Java, C++, C), Database (SQL, Oracle, MongoDB), Operating Systems (UNIX/LINUX), Web Programming (HTML, CSS, JavaScript), Applied Problem Solving, Software Analysis & Design "
+      },
+      {
+        "school":"Seneca College, Toronto, ON",
+        "degree":"English Language Institute – Certificate",
+        "graduated":"November 2018 - August 2019",
+        "description":"Researching Tools | Organizing and Stylizing | Writing Creative | Grammar and Vocabulary Skills | Reading Comprehension | Analytical Interpretation | Presentation skills | Effective listening."
+      },
+      {
+        "school":"University Institute of Coast x 3iL - Ecole d'ingénieurs en informatique, Douala, Cameroon",
+        "degree":"Computer Science – Advanced Diploma",
+        "graduated":"September 2016 - August 2018",
+        "description":"Graduated with Distinction."
+      }
+    ],
+    "work":[
+      {
+        "company":"CAMTEL (Cameroon Telecommunications), Yaoundé, Cameroon ",
+        "title":"Database developer intership ",
+        "years":"April 2018 - September 2018",
+        "description":"Taking ownership of database-related problems | Help with database design and data model decisions | Expert proposal on SQL optimization, stored procedure design, and other database performance issues | Perform database tuning activities to ensure optimal performance | Application of high database standards | Review and approve the entire database design | Develop and build systems for end-users."
+      },
+      {
+        "company":"Afriland First Bank, Yaoundé, Cameroon  ",
+        "title":"SQL developer intership",
+        "years":"April 2018 - September 2018",
+        "description":"Served as the initial contact person for all SQL support queries | Performed updates to the SQL system as assigned by management | Collaborated with senior engineer and business support professionals to provide full system maintenance and produce ingenious solutions for the system | Review/examination and resolution of applied problems | Developed MS Access applications using Access for the front end and SQL in the back end | Wrote SQL queries in MS Access 2007 | Delivered database deployment through the whole system lifecycle"
+      }
+    ],
+    "skills":[
+      {
+        "name":"C/C++/C#/Java",
+        "level":"95%"
+      },
+      {
+        "name":"MySQL/Oracle SQL/MongoDB/XAMPP",
+        "level":"99%"
+      },
+      {
+        "name":"SQl/NoSQL/PL-SQL",
+        "level":"99%"
+      },
+      {
+        "name":"HTML5/CSS3/JavaScript/NodeJS/Express",
+        "level":"85%"
+      },
+      {
+        "name":"Bootstrap/jQuery/Ajax/JSON",
+        "level":"80%"
+      },
+      {
+        "name":"Visual Studio/Visual Studio Code/Eclipse",
+        "level":"100%"
+      },
+      {
+        "name":"GitHub/Git/Heroku/WinSCP/Microsoft Office 365",
+        "level":"100%"
+      },
+      {
+        "name":"Windows/Linux/Unix",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Organic Store",
+        "category":"My personel website. It is a dynamic website which allows you to shop online.",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://organic-store-website.herokuapp.com/#juice"
+      },
+      {
+        "title":"Clothes Store Website",
+        "category":"Create and design the essential front-end website(HTML, DOM and JavaScript).",
+        "image":"fury-fighting-gear.jpg",
+        "url":"https://stephane48.github.io/AfroStore/src/"
+      },
+      {
+        "title":"Food Website",
+        "category":"Website I built for a restaurant I like in Canada",
+        "image":"original-thai-food.jpg",
+        "url":"https://web322--assignemnt.herokuapp.com/"
+      },
+      {
+        "title":"Contact Management System (C#, MySQL, XAMMP)",
+        "category":"C# program connected to an SQL database that can add, update, delete, search or sort contacts by phone number cell ",
+        "image":"resume-website.jpg",
+        "url":"https://github.com/stephane48/CSharp-Projects/tree/master/Contact%20Management%20System%20(C%23%2C%20SQL%2C%20XAMPP)"
+      },
+      {
+          "title":"Java Projects",
+          "category":"This is my java projects that I realized back home.",
+          "image":"java.jpg",
+          "url":"https://github.com/stephane48/Java-Projects"
+      },
+      {
+        "title":"Other Projects",
+        "category":"This is a link of my GitHub account whre you can find my other projects.",
+        "image":"smirkspace.jpg",
+        "url":"https://github.com/stephane48"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle.",
+        "user":"Steve Jobs"
+      },
+      {
+        "text":"Stephane is a very experienced database developer and whatever the database management system (Oracle, MySQL, SQL Server, etc ...) I highly recommend him.",
+        "user":"Rigobert Tchatat"
+      }
+    ]
+  }
+}
